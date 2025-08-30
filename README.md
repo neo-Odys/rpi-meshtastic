@@ -18,7 +18,7 @@ chmod +x run_meshtastic.sh
 
 Send the message via rpi
 
-![rpiTerminal](screenshots/piterminal.jpg)
+![rpiTerminal](screenshots/rpiterminal.jpg)
 
 What oled shows
 
